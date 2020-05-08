@@ -12,6 +12,7 @@ python2 install.py
 
 now run : DarkFly 
 
+and that's all :)
 
 
 support me :   https://www.youtube.com/channel/UC8luTsFcI4-ztSmmng5e8Dw
